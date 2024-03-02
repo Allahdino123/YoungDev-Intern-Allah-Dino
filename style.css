@@ -579,6 +579,9 @@ footer{
 
   /* ******** MEDIA QUERIES********* */
 @media (max-width: 799px) {
+      body{
+        overflow-x: hidden;
+    }
     .section-p1 {
       padding: 40px 40px;
     }
